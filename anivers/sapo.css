@@ -36,3 +36,7 @@ iframe {
     display: block;
     border: none; /* Opcional para remover a borda do iframe */
 }
+
+h2 {
+    color: #fff;
+}
